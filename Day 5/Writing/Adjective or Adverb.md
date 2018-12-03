@@ -4,6 +4,8 @@
 
 ### An adjective is a word or set of words that modifies (i.e., describes) a noun or pronoun. Adjectives may come before the word they modify
 
+* Adjective <-> Noun
+
 Examples:  
 That is a cute puppy.  
 She likes a high school senior.  
@@ -19,6 +21,8 @@ The technology is state-of-the-art.
 ## Adverb
 
 ### An adverb is a word or set of words that modifies verbs, adjectives, or other adverbs. Adverbs answer how, when, where, why, or to what extent—how often or how much (e.g., daily, completely)
+
+* Adverb <-> Verb , Adverb, Adjective
 
 Examples:  
 He speaks slowly (tells how)  

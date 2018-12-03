@@ -1,4 +1,4 @@
-# Idiomatic per day
+# Idiomatic
 
 ## Future
 

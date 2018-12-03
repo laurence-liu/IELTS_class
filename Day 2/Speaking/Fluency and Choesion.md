@@ -3,7 +3,7 @@
 | Phrase                      |
 | :-------------------------: |
 | as regards                  |
-| with regrad to              |
+| with regard to              |
 | regarding                   |
 | as far as ... is concerned  |
 | as for                      |
@@ -12,20 +12,20 @@
 | Turning to                  |
 | Moving on to                |
 
-| as regrads                                                              |
+| as regards                                                              |
 | :---------------------------------------------------------------------: |
 | His grades in science subjects are excellent. As regards humanities ... |
 | We have received your complaint as regards the noise.                   |
 | As regards your request, we will consider the payment on Monday.        |
 
-| with regrad to                                               |
+| with regard to                                               |
 | :----------------------------------------------------------: |
-| With regrad to the latest market figures we can see that ... |
+| With regard to the latest market figures we can see that ... |
 | With regard to your suggestion I will consider it carefully. |
 
 | Regarding                                                            |
 | :------------------------------------------------------------------: |
-| Regarding our efforts to imporve the local economy, we have made ... |
+| Regarding our efforts to improve the local economy, we have made ... |
 | There is no problem regarding the settings of the new software.      |
 
 | as far as ... is concerned                                           |
@@ -56,4 +56,4 @@
 | Moving on to                                                        |
 | :-----------------------------------------------------------------: |
 | Moving on to the item under discussion today — the resolution we just adopted — I would like to make the following remarks. |
-| Moving on to the issue we talk about, this store will be closed tommorow. |
+| Moving on to the issue we talk about, this store will be closed tomorrow. |

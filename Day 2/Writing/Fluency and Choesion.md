@@ -8,4 +8,4 @@ I have been to several city in my life, but I want to talk about Kaoshiung, not 
 
 ## Correct
 
-I have been to several `cities` in my life, but I want to talk about Kaoshiung, not only because it is my hometownm, but also it's a beautiful city, `As far as young people are concerned`, Kaoshiung is not a friendly city for young people, because the job `oppertunities` and salary are lower than Taipei, But I still love here because here is where I `grew` up.
+I have been to several `cities` in my life, but I want to talk about Kaoshiung, not only because it is my hometown, but also it's a beautiful city, `As far as young people are concerned`, Kaoshiung is not a friendly city for young people, because the job `oppertunities` and salary are lower than Taipei, But I still love here because here is where I `grew` up.
